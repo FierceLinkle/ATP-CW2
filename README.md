@@ -1,2 +1,2 @@
 # Project Exodus
-Coursework 2 for Approaches to Play
+Source code for Project Exodus.
