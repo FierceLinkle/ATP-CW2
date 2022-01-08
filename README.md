@@ -1,2 +1,2 @@
-# ATP-CW2
+# Project Exodus
 Coursework 2 for Approaches to Play
